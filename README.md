@@ -12,4 +12,4 @@ Rocksmith 2014 has an issue with it's input volume often dropping causing the gu
 It's just sets the volume of any Rocksmith audio input device to 100% as long as the application is running.
 
 ## Contributing
-I there are any bugs or you would like to see additional features, please open an issue [here](https://github.com/NotCoffee418/rocksmithvolumefix/issues).
+If there are any bugs or you would like to see additional features, please open an issue [here](https://github.com/NotCoffee418/rocksmithvolumefix/issues).
