@@ -3,7 +3,7 @@
 [Download Rocksmith Volume Maxer (Latest Version)](https://github.com/NotCoffee418/rocksmithvolumefix/releases/latest/download/rocksmithvolumefixer.exe)
 
 ## How to use
-Run in the background to keep Rocksmith USB Guitar adapter input volume at max.
+Run in the background to keep Rocksmith USB Guitar adapter input volume at max.  
 The guitar volume found in Mixer should be at 0%.
 
 ## Why?
