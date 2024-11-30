@@ -1,6 +1,6 @@
-# Rocksmith Volume Maxer
+# Rocksmith Realtone Cable Volume Maxer
 
-[Download Rocksmith Volume Maxer (Latest Version)](https://github.com/NotCoffee418/rocksmithvolumefix/releases/latest/download/rocksmithvolumefixer.exe)
+[Download Rocksmith Realtone Cable Volume Maxer (Latest Version)](https://github.com/NotCoffee418/rocksmithvolumefix/releases/latest/download/rocksmithvolumefixer.exe)
 
 ## How to use
 Run in the background to keep Rocksmith USB Guitar adapter input volume at max.  
