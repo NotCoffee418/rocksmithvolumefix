@@ -11,7 +11,7 @@ Rocksmith 2014 has a feature with it's input volume often dropping causing the g
 This tool should only be utilized by people who make use of a Y splitter (RTC/amp combo).
 
 ## How it works
-It's just sets the volume of any Rocksmith audio input device to 100% as long as the application is running.
+It just sets the volume of any Rocksmith audio input device to 100% as long as the application is running.
 
 ## Contributing
 If there are any bugs or you would like to see additional features, please open an issue [here](https://github.com/NotCoffee418/rocksmithvolumefix/issues).
